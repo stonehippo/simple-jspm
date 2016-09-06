@@ -1,0 +1,1 @@
+module.exports = require("npm:flexibility@2.0.1/flexibility.js");
